@@ -1,2 +1,2 @@
-# iiht-demo
+#demo
 This is demo project
